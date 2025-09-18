@@ -1,7 +1,4 @@
 # ProjetoFS
-Projeto feito por: Walter e André.
-
-# ProjetoFS
 
 Sistema de Reserva de Salas
 
