@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt-BR">
       <body className="flex flex-col min-h-screen bg-gray-100 text-gray-900">
+        {/* Contexto de autenticação disponível em toda a aplicação */}
         <AuthProvider>
           {/* Navbar */}
           <header className="bg-blue-600 text-white shadow-md">
